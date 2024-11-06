@@ -1,14 +1,14 @@
-body{
-color:yellow;
-background:black;
-margin: 0px;
-
-} 
- header{
-  border-bottom: solid 0.5px yellow
+body {
+  color: yellow;
+  background: black;
+  margin: 0px;
 
 }
 
-section{
+header {
+  border-bottom: solid 0.5px yellow
+}
+
+section {
   background: yelow;
 }
